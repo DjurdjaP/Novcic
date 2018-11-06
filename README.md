@@ -1,1 +1,1 @@
-# Novcic
+Zadatak: Napisati program koji simulira bacanje novcica dati broj puta. Program treba da ucita zeljenji broj bacanja novcica i da prikaze brojeve koliko puta je palo pismo i glava, kao i njihov kolicnik sa brojem bacanja. Program treba da ponavlja eksperiment sve dok se ne ucita 0 za broj bacanja. 
